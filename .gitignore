@@ -1,0 +1,7 @@
+.vscode
+test
+build*
+.idea/
+cmake-build-debug/
+venv
+
